@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  font-size: 25px;
+  background: rgb(245, 96, 188);
+}
